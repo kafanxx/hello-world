@@ -1,2 +1,2 @@
 # hello-world
-此库为了学习GitHub
+为了学习GitHub
